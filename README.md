@@ -1,6 +1,6 @@
 # Experiment Report: VLM-enhanced Urban Planning with LLM Agents
 
-**Reference**
+## Reference
 Hang Ni, Yuzhi Wang, Hao Liu: Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning / Hang Ni, Yuzhi Wang, Hao Liu. // arXiv.org. – URL: https://arxiv.org/abs/2412.20505.
 
 ## Goal
