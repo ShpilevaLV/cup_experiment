@@ -1,0 +1,71 @@
+{
+  "plan_name": "Nagatinskiy Zaton",
+  "zones": [
+    {
+      "zone": "A",
+      "purpose": "residential",
+      "area_ha": 7.8,
+      "floors": 9,
+      "description": "Mid-rise residential кварталы along internal boulevards provide family-oriented housing with access to green courtyards and embankment views."
+    },
+    {
+      "zone": "B",
+      "purpose": "residential",
+      "area_ha": 4.6,
+      "floors": 19,
+      "description": "Higher-density residential towers near metro and bridge connection create a compact transit-oriented edge while respecting the 19-floor height limit."
+    },
+    {
+      "zone": "C",
+      "purpose": "mixed-use commercial and office",
+      "area_ha": 2.4,
+      "floors": 8,
+      "description": "Retail galleries, shopping and entertainment centre, and office centre positioned near main access roads and pedestrian bridge to activate the waterfront district."
+    },
+    {
+      "zone": "D",
+      "purpose": "school and education",
+      "area_ha": 1.8,
+      "floors": 4,
+      "description": "Comprehensive school with sports grounds located centrally for safe walking access from all residential sectors."
+    },
+    {
+      "zone": "E",
+      "purpose": "kindergarten",
+      "area_ha": 0.8,
+      "floors": 3,
+      "description": "First kindergarten integrated into residential courtyard fabric with protected play areas and landscape buffers."
+    },
+    {
+      "zone": "F",
+      "purpose": "kindergarten",
+      "area_ha": 0.8,
+      "floors": 3,
+      "description": "Second kindergarten positioned near the park zone to support family-oriented development and balanced service distribution."
+    },
+    {
+      "zone": "G",
+      "purpose": "public park and embankment",
+      "area_ha": 8.9,
+      "floors": 1,
+      "description": "Continuous riverside green corridor preserves public water access, includes recreation lawns, ecological landscaping, playgrounds, and pedestrian/cycling promenade."
+    },
+    {
+      "zone": "H",
+      "purpose": "mobility and parking",
+      "area_ha": 1.9,
+      "floors": 2,
+      "description": "Surface parking lots for approximately 2,500 vehicles combined with mobility hub, cycling infrastructure, and direct pedestrian route to metro bridge."
+    }
+  ],
+  "facts": [
+    "Total site area equals 29 hectares.",
+    "Building coverage remains below 30% of the territory.",
+    "Green and open public space occupies more than 45% of the site.",
+    "Maximum building height does not exceed 19 floors.",
+    "The embankment remains publicly accessible along the Moskva River backwater.",
+    "A pedestrian and cycling axis connects the district to the Nagatinsky Zaton metro bridge.",
+    "The plan includes one school, two kindergartens, retail functions, and office space.",
+    "Residential development is organized as a transit-oriented waterfront neighborhood."
+  ]
+}

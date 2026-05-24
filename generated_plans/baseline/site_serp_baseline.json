@@ -1,0 +1,64 @@
+{
+  "plan_name": "Plan for Serp i Molot",
+  "zones": [
+    {
+      "zone": "A",
+      "purpose": "high-density residential",
+      "area_ha": 1.45,
+      "floors": 30,
+      "description": "Residential towers and perimeter blocks located near major transport corridors provide compact urban housing with underground parking and protected inner courtyards."
+    },
+    {
+      "zone": "B",
+      "purpose": "mixed-use residential and retail",
+      "area_ha": 0.82,
+      "floors": 12,
+      "description": "Medium-rise mixed-use blocks with grocery store, cafés, pharmacies, and local services on ground floors ensure daily amenities within walking distance."
+    },
+    {
+      "zone": "C",
+      "purpose": "office and innovation hub",
+      "area_ha": 0.58,
+      "floors": 18,
+      "description": "Flexible office and coworking spaces create employment opportunities and support the multifunctional redevelopment concept of the former industrial territory."
+    },
+    {
+      "zone": "D",
+      "purpose": "historic preservation and cultural reuse",
+      "area_ha": 0.36,
+      "floors": 5,
+      "description": "Preserved factory chimneys and reconstructed industrial buildings adapted for galleries, workshops, and public cultural functions maintain the site's industrial heritage."
+    },
+    {
+      "zone": "E",
+      "purpose": "kindergarten and community services",
+      "area_ha": 0.24,
+      "floors": 3,
+      "description": "Integrated kindergarten with safe play courtyards and community rooms positioned centrally within the residential quarter."
+    },
+    {
+      "zone": "F",
+      "purpose": "linear park and public open space",
+      "area_ha": 0.82,
+      "floors": 1,
+      "description": "East-west linear park with pedestrian and cycling paths, stormwater landscaping, playgrounds, and seating areas forms the main public spine of the redevelopment."
+    },
+    {
+      "zone": "G",
+      "purpose": "mobility infrastructure and noise buffer",
+      "area_ha": 0.27,
+      "floors": 2,
+      "description": "Green acoustic buffer, mobility hub, and access roads along Entuziastov Highway reduce traffic noise and improve pedestrian safety near transit connections."
+    }
+  ],
+  "facts": [
+    "Total site area equals 4.54 hectares.",
+    "The zoning plan maintains building heights up to 30 floors.",
+    "Green and open public spaces exceed the minimum requirement of 15% of the territory.",
+    "Historic industrial chimneys and selected factory structures are preserved and adaptively reused.",
+    "Noise mitigation measures are concentrated along Entuziastov Highway.",
+    "The redevelopment includes at least one kindergarten and a grocery store within walking distance.",
+    "Ground floors along main streets are dedicated to active commercial uses.",
+    "The linear park creates a continuous east-west pedestrian and cycling connection through the site."
+  ]
+}

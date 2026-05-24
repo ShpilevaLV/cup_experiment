@@ -1,0 +1,44 @@
+You are an urban planning AI agent. Generate a functional zoning plan for the site described below. Output only the JSON object, no extra text.
+
+Visual observations from satellite/street view (VLM):
+- Northern boundary: Zolotorozhskiy Val Street.
+- Southern boundary: Entuziastov Highway (busy artery, noise source).
+- Eastern boundary: Proezd Zavoda Serp i Molot.
+- Terrain is flat, no significant elevation changes.
+- Western part: semi-ruined red-brick warehouse and workshop buildings.
+- Centre of site: remnants of factory chimneys and large workshops (historical heritage).
+- Part of the area has been cleared and is now vacant land.
+- Old railway sidings remain.
+- The Yauza River is about 500 m to the south.
+- Dense residential area (5–9 floors) lines the highway.
+- Construction machinery is present (early active construction phase).
+- Existing residential neighbourhood of Lefortovo to the east.
+
+Site description:
+The "Serp i Molot" brownfield is located in the Lefortovo district (South-Eastern Administrative District), between Entuziastov Highway, Zolotorozhskiy Val Street, and Proezd Zavoda Serp i Molot. The total area is about 4.54 hectares. The metallurgical plant "Serp i Molot", founded in 1884 and closed in the 2000s, was one of Moscow's oldest factories. In 2014, the Dutch bureau MVRDV won an international competition for redevelopment, proposing a multifunctional quarter with 1.8 million m² of real estate, 19,000 residential units, and 16,000 jobs. The third construction phase (ATRIUM project) plans residential buildings of 5 to 30 floors with underground parking. Ground floors will host shops, cafés, and a kindergarten. Transport accessibility: metro stations "Lefortovo" and "Rimskaya", close to the Third Ring Road. A linear park will cross the site from east to west.
+
+Constraints:
+- Total site area: 4.54 ha
+- Maximum building height: 30 floors
+- Minimum green space: 15% of total area
+- Preserve historic factory chimneys and buildings
+- Noise mitigation from Entuziastov Highway
+- Include at least one kindergarten and one grocery store within walking distance
+
+Output the plan as a JSON object with the following structure:
+{
+  "plan_name": "Plan for Serp i Molot",
+  "zones": [
+    {
+      "zone": "A",
+      "purpose": "residential / commercial / park / ...",
+      "area_ha": 1.2,
+      "floors": 5,
+      "description": "Brief justification"
+    }
+  ],
+  "facts": [
+    "Factual statement 1",
+    "Factual statement 2"
+  ]
+}

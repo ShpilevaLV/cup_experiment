@@ -1,0 +1,89 @@
+{
+  "plan_name": "Plan for ZIL Severny",
+  "zones": [
+    {
+      "zone": "A",
+      "purpose": "mid-rise residential",
+      "area_ha": 32.4,
+      "floors": 12,
+      "description": "Residential quarters with wind-protected courtyards and perimeter blocks are positioned outside flood-prone shoreline areas while maintaining visual access toward the Moskva River."
+    },
+    {
+      "zone": "B",
+      "purpose": "waterfront mixed-use residential and retail",
+      "area_ha": 19.3,
+      "floors": 15,
+      "description": "Higher-density mixed-use development along the Marc Chagall embankment combines housing, grocery stores, cafés, and active public ground floors facing the waterfront."
+    },
+    {
+      "zone": "C",
+      "purpose": "business, office, and innovation district",
+      "area_ha": 20.7,
+      "floors": 10,
+      "description": "Office campuses, coworking spaces, research centers, and technology hubs are concentrated near transport corridors and metro accessibility points."
+    },
+    {
+      "zone": "D",
+      "purpose": "cultural heritage and adaptive reuse",
+      "area_ha": 7.8,
+      "floors": 6,
+      "description": "Historic red-brick factory buildings are preserved and adapted into museums, galleries, educational venues, workshops, and creative industry spaces."
+    },
+    {
+      "zone": "E",
+      "purpose": "sports and entertainment cluster",
+      "area_ha": 10.6,
+      "floors": 8,
+      "description": "Expansion of the Ice Palace and adjacent sports facilities with arenas, recreation halls, cinemas, and event spaces strengthens the district's public identity."
+    },
+    {
+      "zone": "F",
+      "purpose": "education and community facilities",
+      "area_ha": 8.2,
+      "floors": 4,
+      "description": "Schools, multiple kindergartens, clinics, libraries, and community centers are distributed within walking distance of residential neighborhoods."
+    },
+    {
+      "zone": "G",
+      "purpose": "Tyufeleva Roshcha park extension and ecological corridors",
+      "area_ha": 25.6,
+      "floors": 1,
+      "description": "Large-scale parks, green corridors, and stormwater landscapes extend Tyufeleva Roshcha Park and reduce wind exposure through vegetation belts and terrain modeling."
+    },
+    {
+      "zone": "H",
+      "purpose": "riverfront embankment and recreation",
+      "area_ha": 12.9,
+      "floors": 1,
+      "description": "Continuous public embankment with promenades, cycling routes, piers, terraces, and water recreation zones preserves full public access to the 6 km shoreline."
+    },
+    {
+      "zone": "I",
+      "purpose": "mobility infrastructure and acoustic buffer",
+      "area_ha": 7.24,
+      "floors": 3,
+      "description": "Transport interchanges, structured parking, logistics access, and landscaped acoustic barriers mitigate noise from the Third Ring Road and railway."
+    },
+    {
+      "zone": "J",
+      "purpose": "river transport and marina hub",
+      "area_ha": 2.0,
+      "floors": 3,
+      "description": "Public river transport facilities, marina services, electric boat piers, and recreational boating infrastructure integrate with the South River Terminal."
+    }
+  ],
+  "facts": [
+    "Total site area equals 146.74 hectares.",
+    "Maximum building height does not exceed 15 floors.",
+    "Green and public open spaces significantly exceed the minimum requirement of 15% of the territory.",
+    "Residential development is excluded from flood risk zones near the riverfront.",
+    "Visual corridors toward the Moskva River are preserved through stepped building heights and open public spaces.",
+    "Noise mitigation measures are concentrated along the Third Ring Road and western railway edge.",
+    "At least one kindergarten and grocery stores are provided within walking distance of all residential quarters.",
+	"Tyufeleva Roshcha Park is integrated into a larger ecological and recreational network across the peninsula.",
+    "Historic industrial buildings are preserved and adaptively reused as cultural and creative facilities.",
+    "Wind mitigation is achieved through vegetation belts, block orientation, and protected courtyards.",
+    "The embankment and shoreline remain publicly accessible with continuous pedestrian and cycling routes.",
+    "The redevelopment integrates with MCC station ZIL, Tekhnopark metro station, future metro infrastructure, and river transport."
+  ]
+}

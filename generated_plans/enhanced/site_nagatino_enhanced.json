@@ -1,0 +1,73 @@
+{
+  "plan_name": "Plan for Nagatinsky Zaton",
+  "zones": [
+    {
+      "zone": "A",
+      "purpose": "mid-rise residential",
+      "area_ha": 8.2,
+      "floors": 12,
+      "description": "Perimeter residential blocks with elevated inner courtyards and underground parking provide family-oriented housing while maintaining low building coverage and open visual corridors."
+    },
+    {
+      "zone": "B",
+      "purpose": "high-rise residential",
+      "area_ha": 3.4,
+      "floors": 19,
+      "description": "Residential towers concentrated near the metro bridge axis create a transit-oriented node while preserving sunlight access and river views."
+    },
+    {
+      "zone": "C",
+      "purpose": "waterfront mixed-use and retail",
+      "area_ha": 2.3,
+      "floors": 6,
+      "description": "Active embankment frontage with cafés, grocery stores, local retail, and leisure uses supports public life along the waterfront and pier."
+    },
+    {
+      "zone": "D",
+      "purpose": "school and sports facilities",
+      "area_ha": 1.9,
+      "floors": 4,
+      "description": "Comprehensive school with outdoor sports grounds centrally located for safe pedestrian access from all residential sectors."
+    },
+    {
+      "zone": "E",
+      "purpose": "kindergarten",
+      "area_ha": 0.7,
+      "floors": 3,
+      "description": "First kindergarten integrated into landscaped residential courtyards with protected play areas and low traffic exposure."
+    },
+    {
+      "zone": "F",
+      "purpose": "kindergarten",
+      "area_ha": 0.7,
+      "floors": 3,
+      "description": "Second kindergarten positioned near the northern green corridor to serve families close to Kolomenskoye Park access."
+    },
+    {
+      "zone": "G",
+      "purpose": "linear park and embankment",
+      "area_ha": 9.6,
+      "floors": 1,
+      "description": "Continuous waterfront park with promenades, cycling lanes, recreation lawns, ecological planting, and direct public access to the water edge and electric boat pier."
+    },
+    {
+      "zone": "H",
+      "purpose": "mobility infrastructure and public connection",
+      "area_ha": 2.2,
+      "floors": 2,
+      "description": "Pedestrian and cycling boulevard connecting Rechnikov Street, residential areas, and the metro bridge with integrated mobility hub and service access."
+    }
+  ],
+  "facts": [
+    "Total site area equals 29 hectares.",
+    "Building coverage remains below 30% of the territory.",
+    "Green and open public spaces occupy more than 45% of the site.",
+    "Maximum building height does not exceed 19 floors.",
+    "The embankment remains fully accessible to the public along the backwater and Moskva River edge.",
+    "A dedicated pedestrian and cycling corridor connects the site to the Nagatinsky Zaton metro bridge.",
+    "The zoning plan includes one school, two kindergartens, grocery retail, and local commercial services.",
+    "Residential courtyards are elevated above underground parking to improve pedestrian safety and landscape continuity.",
+    "Visual corridors toward the Moskva River and Kolomenskoye Park are preserved through stepped building placement.",
+    "The waterfront park integrates with the existing high greenery network of the surrounding district."
+  ]
+}

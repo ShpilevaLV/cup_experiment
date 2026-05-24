@@ -1,0 +1,31 @@
+You are an urban planning AI agent. Generate a functional zoning plan for the site described below. Output only the JSON object, no extra text.
+
+Site description:
+The ZIL-Severny site is a former industrial area of approximately 146.74 hectares, bounded by the Third Ring Road (TTK), the Moskva River, and the Small Ring of the Moscow Railway. It is part of the largest brownfield redevelopment in Europe (total former ZIL factory area ~358 ha). Production ceased in 2015. The approved planning project (2013) envisages up to 4.5 million m² of real estate, of which about 1 million m² is housing for 29,000 residents. The northern part of ZIL already contains a cluster of cultural and sports facilities: the Ice Palace and Tyufeleva Roshcha Park (10 ha). Architectural concept for the ZIL peninsula prescribes variable height from 3 to 15 floors. Transport accessibility: MCC station "ZIL", metro station "Tekhnopark", and the planned metro station "ZIL". By 2025 the Marc Chagall embankment along the riverside will be completed.
+
+Constraints:
+- Total site area: 146.74 ha
+- Maximum building height: 15 floors
+- Minimum green space: 15% of total area
+- No residential buildings in flood risk zones
+- Preserve visual connections to the Moskva River
+- Mitigate noise from the Third Ring Road and the railway
+- Include at least one kindergarten and one grocery store within walking distance
+
+Output the plan as a JSON object with the following structure:
+{
+  "plan_name": "Plan for ZIL Severny",
+  "zones": [
+    {
+      "zone": "A",
+      "purpose": "residential / commercial / park / ...",
+      "area_ha": 1.2,
+      "floors": 5,
+      "description": "Brief justification"
+    }
+  ],
+  "facts": [
+    "Factual statement 1",
+    "Factual statement 2"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "plan_name": "Plan for Serp i Molot",
+  "zones": [
+    {
+      "zone": "A",
+      "purpose": "high-density residential",
+      "area_ha": 1.38,
+      "floors": 30,
+      "description": "Residential towers and stepped perimeter blocks positioned away from the noisiest highway frontage provide compact urban housing with landscaped internal courtyards."
+    },
+    {
+      "zone": "B",
+      "purpose": "mixed-use retail and residential",
+      "area_ha": 0.74,
+      "floors": 14,
+      "description": "Ground-floor grocery store, cafés, pharmacies, and neighborhood services activate pedestrian streets and ensure daily amenities within walking distance."
+    },
+    {
+      "zone": "C",
+      "purpose": "historic preservation and cultural reuse",
+      "area_ha": 0.52,
+      "floors": 6,
+      "description": "Preserved red-brick workshops, factory chimneys, and fragments of railway infrastructure are adaptively reused as galleries, creative studios, and public exhibition spaces."
+    },
+    {
+      "zone": "D",
+      "purpose": "office and innovation hub",
+      "area_ha": 0.63,
+      "floors": 18,
+      "description": "Flexible office and coworking buildings support employment generation and integrate with the wider multifunctional redevelopment strategy."
+    },
+    {
+      "zone": "E",
+      "purpose": "kindergarten and community services",
+      "area_ha": 0.23,
+      "floors": 3,
+      "description": "A centrally located kindergarten with protected play courtyards and community rooms provides safe access for nearby residential blocks."
+    },
+    {
+      "zone": "F",
+      "purpose": "linear park and green corridors",
+      "area_ha": 0.68,
+      "floors": 1,
+      "description": "Public green corridor with pedestrian and cycling routes follows former railway alignments and links preserved industrial heritage spaces."
+    },
+    {
+      "zone": "G",
+      "purpose": "noise mitigation and mobility infrastructure",
+      "area_ha": 0.36,
+      "floors": 2,
+      "description": "Acoustic landscape berms, service roads, and structured parking along Entuziastov Highway reduce traffic noise impacts and improve pedestrian safety."
+    }
+  ],
+  "facts": [
+    "Total site area equals 4.54 hectares.",
+    "Maximum building height does not exceed 30 floors.",
+    "Green and public open spaces exceed the required minimum of 15% of the territory.",
+    "Historic factory chimneys and selected red-brick industrial buildings are preserved and adaptively reused.",
+    "Noise mitigation measures are concentrated along Entuziastov Highway through landscaped buffers and building placement.",
+    "At least one kindergarten and one grocery store are provided within walking distance of all residential blocks.",
+    "Former railway sidings are partially integrated into the landscape design as industrial heritage elements.",
+    "The redevelopment creates a mixed-use urban quarter connected to the existing Lefortovo residential district.",
+    "Ground floors along main pedestrian routes are dedicated to active commercial and public uses."
+  ]
+}

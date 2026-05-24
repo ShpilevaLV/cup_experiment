@@ -1,0 +1,31 @@
+You are an urban planning AI agent. Generate a functional zoning plan for the site described below. Output only the JSON object, no extra text.
+
+Site description:
+The "Nagatinsky Zaton" brownfield is a rectangular plot of about 29 hectares stretched along the eponymous backwater of the Moskva River. From 1945 to 2014 it was the Moscow Shipbuilding and Shiprepair Yard, which produced over 1800 vessels. After closure, the site is being redeveloped into the "River Park Kolomenskoye" residential complex (developer AEON Corporation, architectural concept by Ostozhenka bureau). The project includes 18 residential buildings of 9 to 19 floors for 6,100 residents. Only 30% of the territory (approx. 8.7 ha) is occupied by buildings; the rest is public space, a park, and an embankment. The complex will have a school, two kindergartens, two surface parking lots for 2,500 cars, a shopping and entertainment centre, and an office centre (27,000 m²). In 2025 a pedestrian/cycling bridge was opened, connecting the complex to the "Nagatinsky Zaton" metro station (Big Circle Line). Nearby are "Klenovy Bulvar" metro station, Kolomenskoye Park, and Nagatinskaya Poima Park. The district has more than 45% green space.
+
+Constraints:
+- Total site area: 29 ha
+- Maximum building height: 19 floors
+- Minimum green space: 45% (existing high greenery)
+- Building coverage: no more than 30% of the area
+- Preserve the embankment and water access
+- Provide pedestrian/cycling connection to the metro bridge
+- Include at least one school, two kindergartens, and retail
+
+Output the plan as a JSON object with the following structure:
+{
+  "plan_name": "Nagatinskiy Zaton",
+  "zones": [
+    {
+      "zone": "A",
+      "purpose": "residential / commercial / park / ...",
+      "area_ha": 1.2,
+      "floors": 5,
+      "description": "Brief justification"
+    }
+  ],
+  "facts": [
+    "Factual statement 1",
+    "Factual statement 2"
+  ]
+}

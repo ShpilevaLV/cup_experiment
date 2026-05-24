@@ -1,0 +1,81 @@
+{
+  "plan_name": "Plan for ZIL Severny",
+  "zones": [
+    {
+      "zone": "A",
+      "purpose": "mid-rise residential",
+      "area_ha": 34.6,
+      "floors": 12,
+      "description": "Residential quarters with perimeter blocks and semi-private courtyards located outside flood-prone riverfront zones, ensuring high-quality housing and visual permeability toward the Moskva River."
+    },
+    {
+      "zone": "B",
+      "purpose": "waterfront mixed-use residential and retail",
+      "area_ha": 18.2,
+      "floors": 15,
+      "description": "Higher-density mixed-use buildings along the Marc Chagall embankment integrate housing, grocery stores, cafés, and local services with active public waterfront spaces."
+    },
+    {
+      "zone": "C",
+      "purpose": "business, office, and innovation district",
+      "area_ha": 21.5,
+      "floors": 10,
+      "description": "Flexible office campuses, technology hubs, coworking spaces, and research facilities support employment generation and reinforce the mixed-use redevelopment strategy."
+    },
+    {
+      "zone": "D",
+      "purpose": "cultural, sports, and entertainment cluster",
+      "area_ha": 12.8,
+      "floors": 8,
+      "description": "Expansion of the existing Ice Palace and public event facilities with museums, exhibition spaces, sports halls, cinemas, and recreational programs connected to Tyufeleva Roshcha Park."
+    },
+    {
+      "zone": "E",
+      "purpose": "education and community facilities",
+      "area_ha": 8.7,
+      "floors": 4,
+      "description": "Schools, multiple kindergartens, healthcare centers, libraries, and community hubs distributed within walking distance of all residential sectors."
+    },
+    {
+      "zone": "F",
+      "purpose": "large parks and ecological corridors",
+      "area_ha": 24.9,
+      "floors": 1,
+      "description": "Continuous green corridors extending Tyufeleva Roshcha Park with ecological planting, playgrounds, sports fields, rainwater management landscapes, and pedestrian/cycling routes."
+    },
+    {
+      "zone": "G",
+      "purpose": "riverfront embankment and recreation",
+      "area_ha": 11.6,
+      "floors": 1,
+      "description": "Public embankment with promenades, piers, terraces, cycling lanes, water recreation zones, and viewing decks preserving visual and physical access to the Moskva River."
+    },
+    {
+      "zone": "H",
+      "purpose": "mobility infrastructure and acoustic buffer",
+      "area_ha": 9.1,
+      "floors": 3,
+      "description": "Transport hubs, structured parking, service roads, and landscaped acoustic barriers along the Third Ring Road and railway mitigate traffic noise and improve multimodal accessibility."
+    },
+    {
+      "zone": "I",
+      "purpose": "adaptive reuse and industrial heritage",
+      "area_ha": 5.34,
+      "floors": 6,
+      "description": "Preserved historic industrial structures adapted into creative industries, workshops, galleries, educational spaces, and small-scale production facilities."
+    }
+  ],
+  "facts": [
+    "Total site area equals 146.74 hectares.",
+    "Maximum building height does not exceed 15 floors.",
+    "Green and open public spaces occupy significantly more than the required 15% of the territory.",
+    "Residential buildings are excluded from flood risk zones along the Moskva River shoreline.",
+    "Visual corridors toward the Moskva River are preserved through stepped building placement and open public spaces.",
+    "Noise mitigation measures are concentrated along the Third Ring Road and railway boundary through landscaped buffers and building orientation.",
+    "The redevelopment includes multiple kindergartens and grocery stores within walking distance of residential blocks.",
+    "The Marc Chagall embankment functions as the primary public waterfront spine of the district.",
+	"The zoning structure integrates with MCC station ZIL, Tekhnopark metro station, and the planned ZIL metro station.",
+    "Historic industrial buildings are preserved and adaptively reused as cultural and creative facilities.",
+    "Tyufeleva Roshcha Park is integrated into a larger continuous ecological and recreational network."
+  ]
+}

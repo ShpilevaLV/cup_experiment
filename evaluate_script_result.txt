@@ -1,0 +1,40 @@
+================================================================================
+FAITHFULNESS EVALUATION RESULTS
+================================================================================
+Site         Type       Faithfulness    Errors   File
+--------------------------------------------------------------------------------
+nagatino     baseline   0.889           1        site_nagatino_baseline.json
+nagatino     enhanced   0.889           1        site_nagatino_enhanced.json
+serp         baseline   1.000           0        site_serp_baseline.json
+serp         enhanced   0.875           1        site_serp_enhanced.json
+zil          baseline   0.700           3        site_zil_baseline.json
+zil          enhanced   0.727           3        site_zil_enhanced.json
+================================================================================
+
+DETAILED ERRORS:
+
+site_zil_baseline.json (baseline, zil):
+  - Green space (24.9%) below minimum required (33.0%)
+  - Residential zone 'A' is located in flood risk zone
+  - Residential zone 'B' is located in flood risk zone
+
+site_nagatino_baseline.json (baseline, nagatino):
+  - Green space (37.2%) below minimum required (45.0%)
+
+site_nagatino_enhanced.json (enhanced, nagatino):
+  - Green space (33.1%) below minimum required (45.0%)
+
+site_zil_enhanced.json (enhanced, zil):
+  - Green space (26.2%) below minimum required (33.0%)
+  - Residential zone 'A' is located in flood risk zone
+  - Residential zone 'B' is located in flood risk zone
+
+site_serp_enhanced.json (enhanced, serp):
+  - Green space (15.0%) below minimum required (15.0%)
+
+================================================================================
+COMPARISON: BASELINE vs ENHANCED
+================================================================================
+nagatino     Baseline: 0.889  Enhanced: 0.889  Delta: +0.000  Winner: Tie
+serp         Baseline: 1.000  Enhanced: 0.875  Delta: -0.125  Winner: Baseline
+zil          Baseline: 0.700  Enhanced: 0.727  Delta: +0.027  Winner: Enhanced
