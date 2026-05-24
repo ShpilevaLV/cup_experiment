@@ -1,5 +1,8 @@
 # Experiment Report: VLM-enhanced Urban Planning with LLM Agents
 
+Experiment for Research Proposal (AIRI Summer School 2026).  
+Tests whether adding visual observations (simulated VLM) improves LLM-generated urban zoning plans.
+
 ## Reference
 Hang Ni, Yuzhi Wang, Hao Liu: Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning / Hang Ni, Yuzhi Wang, Hao Liu. // arXiv.org. – URL: https://arxiv.org/abs/2412.20505.
 
