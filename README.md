@@ -49,7 +49,8 @@ Enhanced approach won in 2 out of 3 sites, demonstrating that VLM observations t
 The experiment partially confirms the hypothesis: adding visual context improves urban planning generation in most cases. Future work will involve a real VLM pipeline and testing on more diverse sites.
 
 ## Repository structure
-- `data/` – site descriptions, VLM observations, requirements, map screenshorts
-- `generated_plans/` – baseline and enhanced JSON plans + promts for LLM
+- `data/` – site descriptions, VLM observations, requirements, map screenshots
+- `generated_plans/` – baseline and enhanced JSON plans + prompts for LLM
 - `evaluate.py` – faithfulness evaluation script
+- `evaluate_script_result.txt` – log of faithfulness evaluation script
 - `expert_evaluation.csv` – human evaluation scores
